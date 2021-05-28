@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @siddiquah
-- 👀 I’m interested in fornt-end programming and android development with JAVA
+- 👀 I’m interested in Full-stack programming and android development with Kotlin
 - 🌱 I’m currently learning android development with REST api
 - 💞️ I’m looking to collaborate on learning REST api android
 - 📫 How to reach me siddiquahanjum111@gmail.com | +91 7676016375
